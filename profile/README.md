@@ -11,5 +11,5 @@ We welcome contributions from anyone interested in science, philosophy, medicine
 ## 👩‍💻 Useful Resources
 You can find our documentation and other resources on our website at knaph.com.
 
-##🍿 Fun Fact
+## 🍿 Fun Fact
 Currently, Knaph is a one-person organization, but we're excited to build a community around this project and expand our team in the future.
